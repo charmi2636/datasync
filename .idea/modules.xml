@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SHAREthem-master.iml" filepath="$PROJECT_DIR$/SHAREthem-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/share-them.iml" filepath="$PROJECT_DIR$/share-them.iml" />
+      <module fileurl="file://C:\Users\Dell\Downloads\SHAREthem-master\SHAREthem-master\share-them.iml" filepath="C:\Users\Dell\Downloads\SHAREthem-master\SHAREthem-master\share-them.iml" />
     </modules>
   </component>
 </project>
